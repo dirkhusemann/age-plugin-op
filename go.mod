@@ -1,4 +1,4 @@
-module github.com/bromanko/age-plugin-op
+module github.com/dirkhusemann/age-plugin-op
 
 go 1.21.6
 
@@ -14,3 +14,4 @@ require (
 	golang.org/x/crypto v0.4.0 // indirect
 	golang.org/x/sys v0.11.0 // indirect
 )
+

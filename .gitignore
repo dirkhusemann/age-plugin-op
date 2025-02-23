@@ -146,3 +146,6 @@ fabric.properties
 # Nix directories
 result
 .direnv
+
+dist
+*~
